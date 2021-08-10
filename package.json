@@ -1,0 +1,26 @@
+{
+  "name": "chattingWithJS",
+  "version": "1.0.0",
+  "description": "- 목표 : 바닐라 자바스크립트를 통해 소켓 IO라이브러리를 사용해서 간단한 채팅앱을 만들기",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shseok/chattingWithJS.git"
+  },
+  "keywords": [],
+  "author": "shslib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shseok/chattingWithJS/issues"
+  },
+  "homepage": "https://github.com/shseok/chattingWithJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.1.3"
+  }
+}
