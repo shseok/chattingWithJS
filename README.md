@@ -31,7 +31,7 @@ es6) Shortand Property Names
 ## 실행 방법
 
 ```
-$ git clone
+$ git clone https://github.com/shseok/chattingWithJS.git
 $ cd .\chattingWithJS\
 $ npm install
 $ npm start (nodemon 실행)
